@@ -1,84 +1,136 @@
+ <div align="center">
+
 # Samuel Moreno Ramírez
 
-**Systems Engineer · Software Developer**
+**SYSTEMS ENGINEER · SOFTWARE DEVELOPER**
 
 Software Engineering · Artificial Intelligence · Data Engineering
 
-[GitHub](https://github.com/albert12432) · [LinkedIn](https://www.linkedin.com/in/samuel-moreno-5a1a42222) · [Email](mailto:samipipe28@gmail.com)
+<br/>
+
+[GitHub](https://github.com/albert12432) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/samuel-moreno-5a1a42222) &nbsp;·&nbsp; [Email](mailto:samipipe28@gmail.com)
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine_Learning-6B7280?style=flat-square" />
+<img src="https://img.shields.io/badge/Computer_Vision-6B7280?style=flat-square" />
+
+</div>
 
 ---
 
-## About Me
+## 01. Profile
 
 Ingeniero en Sistemas y Computación de la **Universidad de Cundinamarca**, con formación complementaria como Tecnólogo en Gestión de la Producción Industrial.
 
-Mi enfoque profesional integra el desarrollo de software, la inteligencia artificial y la ingeniería de datos. Me interesa diseñar e implementar soluciones tecnológicas que permitan automatizar procesos, optimizar operaciones y transformar datos en información útil.
+Mi enfoque integra el desarrollo de software, la inteligencia artificial y la ingeniería de datos. Me interesa diseñar soluciones tecnológicas que permitan automatizar procesos, optimizar operaciones y transformar datos en información útil.
 
-He trabajado en proyectos relacionados con desarrollo web, visión artificial, Machine Learning, procesamiento de datos y automatización de procesos industriales.
+He desarrollado proyectos relacionados con aplicaciones web, visión artificial, Machine Learning, procesamiento de datos y automatización de procesos industriales.
 
-## Technical Skills
+## 02. Technical Expertise
 
-**Programming**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Python · Java · JavaScript · PHP · SQL
+**Programming & Development**
 
-**Backend & Web Development**
+- Python
+- Java
+- JavaScript
+- PHP
+- HTML5 / CSS3
+- Flask / Laravel
+- Tailwind CSS
 
-Flask · Laravel · HTML5 · CSS3 · Tailwind CSS
+</td>
+<td width="50%" valign="top">
 
-**Artificial Intelligence & Data Science**
+**Artificial Intelligence**
 
-Scikit-learn · TensorFlow · OpenCV · YOLO · MediaPipe · Pandas · NumPy · Jupyter
+- Machine Learning
+- Scikit-learn
+- TensorFlow
+- OpenCV
+- YOLO
+- MediaPipe
+- Pandas / NumPy
 
-**Databases & Data Engineering**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-MySQL · SQL Server · SSIS · ETL · Data Warehousing · Power Query
+**Data Engineering**
 
-**Tools**
+- SQL Server
+- MySQL
+- SSIS
+- ETL
+- Data Warehousing
+- Power Query
+- Excel / VBA
 
-Git · GitHub · VS Code · Visual Studio · Excel · VBA
+</td>
+<td width="50%" valign="top">
 
-## Featured Projects
+**Development Tools**
 
-### Artificial Intelligence & Machine Learning
+- Git / GitHub
+- Visual Studio
+- VS Code
+- Jupyter Notebook
+- Google Cloud
+- Netlify
 
-| Project | Description | Technologies |
-|---|---|---|
-| [Reconocimiento de lenguaje de gestos](https://github.com/albert12432/Reconocimiento-de-lenguaje-de-gestos) | Sistema de visión artificial para interpretar lenguaje de señas mediante análisis de imágenes. | Python, OpenCV |
-| [Proyecto ML](https://github.com/albert12432/Proyecto-ML) | Implementaciones prácticas de algoritmos de aprendizaje automático. | Python, Scikit-learn |
-| [Casos de Uso de Machine Learning Supervisado](https://github.com/albert12432/Casos-de-Uso-de-Machine-Learning-Supervisado) | Análisis y aplicación de algoritmos de aprendizaje supervisado. | Jupyter, Pandas |
+</td>
+</tr>
+</table>
 
-### Software Development
+## 03. Selected Projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| [Aplicativo Móvil ICES](https://github.com/albert12432/Aplicativo-Mobil-) | Aplicación móvil para la gestión de procesos ICES. | Java |
-| [CuentasCobro](https://github.com/albert12432/CuentasCobro) | Sistema administrativo para gestionar cuentas de cobro. | PHP, Laravel, Blade |
-| [Juguetes Antiestrés](https://github.com/albert12432/juguetesantiestres) | Plataforma web de comercio electrónico. | HTML, CSS, JavaScript |
+**Artificial Intelligence & Machine Learning**
 
-## Research Interests
+| Project | Description | Stack |
+|:--|:--|:--|
+| [Reconocimiento de lenguaje de gestos](https://github.com/albert12432/Reconocimiento-de-lenguaje-de-gestos) | Interpretación de lenguaje de señas mediante visión artificial. | Python · OpenCV |
+| [Proyecto ML](https://github.com/albert12432/Proyecto-ML) | Implementación práctica de algoritmos de aprendizaje automático. | Python · Scikit-learn |
+| [ML Supervisado](https://github.com/albert12432/Casos-de-Uso-de-Machine-Learning-Supervisado) | Análisis comparativo de algoritmos supervisados. | Jupyter · Pandas |
 
-### Big Data & Industry 4.0
+**Software Development**
 
-Interés en la aplicación de Big Data y Machine Learning supervisado para la predicción y prevención de contaminación microbiológica en cadenas de suministro agroindustriales.
+| Project | Description | Stack |
+|:--|:--|:--|
+| [Aplicativo Móvil ICES](https://github.com/albert12432/Aplicativo-Mobil-) | Aplicación móvil para gestión de procesos. | Java |
+| [CuentasCobro](https://github.com/albert12432/CuentasCobro) | Sistema administrativo para gestión de cuentas de cobro. | PHP · Laravel |
+| [Juguetes Antiestrés](https://github.com/albert12432/juguetesantiestres) | Plataforma de comercio electrónico. | HTML · CSS · JS |
 
-Líneas de trabajo:
+## 04. Research & Innovation
 
-- Integración de datos provenientes de sensores IoT.
-- Procesamiento y transformación de datos mediante ETL.
+**Big Data · Machine Learning · Industry 4.0**
+
+Investigación orientada a la aplicación de Big Data y Machine Learning supervisado para la predicción y prevención de contaminación microbiológica en cadenas de suministro agroindustriales.
+
+Áreas de desarrollo:
+
+- Integración y procesamiento de datos provenientes de sensores IoT.
+- Diseño de procesos ETL y arquitecturas de datos.
 - Desarrollo de modelos predictivos.
 - Análisis de variables ambientales y operativas.
-- Aplicación de tecnologías de Industria 4.0 en el sector agroindustrial.
+- Aplicaciones de Industria 4.0 en el sector agroindustrial.
 
-**Research context:** Cundinamarca, Colombia · 2025–2030.
+<sub>Research context · Cundinamarca, Colombia · 2025–2030</sub>
 
-## GitHub Activity
+## 05. GitHub Analytics
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=albert12432&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="GitHub Statistics"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=albert12432&show_icons=true&hide_border=true&theme=transparent&title_color=0969da&text_color=57606a&icon_color=0969da&rank_icon=github" alt="GitHub Statistics" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albert12432&layout=compact&hide_border=true&theme=default&langs_count=6" alt="Top Languages"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albert12432&layout=compact&hide_border=true&theme=transparent&title_color=0969da&text_color=57606a&langs_count=6" alt="Top Languages" />
 
 </div>
 
@@ -86,6 +138,12 @@ Líneas de trabajo:
 
 <div align="center">
 
-Universidad de Cundinamarca · Ingeniería en Sistemas y Computación
+**SAMUEL MORENO RAMÍREZ**
+
+Systems Engineering · Software Development · Innovation
+
+[GitHub](https://github.com/albert12432) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/samuel-moreno-5a1a42222)
+
+<sub>Universidad de Cundinamarca · Colombia</sub>
 
 </div>
